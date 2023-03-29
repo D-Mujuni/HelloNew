@@ -35,33 +35,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
-
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello New Microverse Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+
 
 **[Hello New Microverse Project]** is a about trials on setting up linters in a project
 
